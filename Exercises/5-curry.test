@@ -1,6 +1,6 @@
 ({
   name: 'press',
-  length: [50, 200],
+  length: [10, 200],
   test: press => {
     {
       const f1 = press('1');
